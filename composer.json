@@ -1,0 +1,11 @@
+{
+    "name": "smartbox/images-review",
+    "autoload": {
+        "psr-4": {
+            "Smartbox\\ImagesReview\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
